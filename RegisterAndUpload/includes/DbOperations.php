@@ -153,7 +153,7 @@
                     $response['isLoggedIn'] = false;
                 }
                 $usertoken = $this->fetchTokenByUid($user_id, $isUsingWeb);
-                if (hash_equals($usertoken, $token)) {
+                if ($usertoken != null && hash_equals($usertoken, $token)) {
                     $response['isLoggedIn'] = true;
                     $response['user'] = $this->getUserDataByUid($user_id);
                 }

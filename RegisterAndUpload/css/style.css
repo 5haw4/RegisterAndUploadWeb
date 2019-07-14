@@ -59,7 +59,6 @@ body{
 }
 
 .img-post {
-    background: #343a40;
     overflow:hidden;
     max-width:90%; 
     max-height:75vh;

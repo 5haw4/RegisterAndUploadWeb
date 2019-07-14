@@ -5,7 +5,8 @@ Go to The Example Website (Soon...) • [Download the Android App](https://githu
 This is a simple fullstack project that allows users to login / register and create posts, upload images with their posts, and browse through other users' posts.
  
  # Please note:
-All your posts and images are publicly visible to ALL app / website visitors.
+- All your posts and images are publicly visible to ALL app / website visitors.
+- Do NOT use this project / parts of this project in a commercial use without my written approval.
  
 # How to Make This Project Work:
 - Create MySQL database and import this starter [sql file](https://raw.githubusercontent.com/5haw4/RegisterAndUploadWeb/master/register_and_upload.sql)

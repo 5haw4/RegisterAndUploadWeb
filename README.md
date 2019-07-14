@@ -1,6 +1,6 @@
 # RegisterAndUploadWeb
 
-Go to The Example Website (Soon...) • [Download the Android App](https://github.com/5haw4/RegisterAndUploadAndroid)
+[Check Out the Android App](https://github.com/5haw4/RegisterAndUploadAndroid)
 
 This is a simple fullstack project that allows users to login / register and create posts, upload images with their posts, and browse through other users' posts.
  

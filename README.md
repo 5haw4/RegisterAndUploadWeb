@@ -1,6 +1,6 @@
 # RegisterAndUploadWeb
 
-![Screenshot](https://github.com/5haw4/RegisterAndUploadWeb/blob/master/1.JPG)
+![GIF](https://github.com/5haw4/RegisterAndUploadWeb/blob/master/regiaterAndUploadWeb.gif)
 
 [Check Out the Android App](https://github.com/5haw4/RegisterAndUploadAndroid)
 

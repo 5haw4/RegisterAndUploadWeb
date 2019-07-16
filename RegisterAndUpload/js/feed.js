@@ -85,6 +85,7 @@
                 success: function(response){
                     response = JSON.parse(response);
                     if(!response['error']) {
+                        offset--;
                         isRemoving = true;
                         cardViewPost.html(
                             '<div class="row post-title-row" style="margin-top:0;"> \

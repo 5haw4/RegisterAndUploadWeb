@@ -61,7 +61,7 @@
             $img_name = $rand_string . $curTime . '.png';
 
             $location = '../images/' . $img_name;
-            file_put_contents($location,base64_decode($photo));
+            file_put_contents($location,base64_decode($image));
         }
 
         $db = new DbOperations();

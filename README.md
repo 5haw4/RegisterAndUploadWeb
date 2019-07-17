@@ -1,8 +1,8 @@
 # RegisterAndUploadWeb
+[Visit the Live Demo Website](http://13.57.36.40/Demos/RegisterAndUpload/feed.php) • [Download the Android App (And View its Source Code)](https://github.com/5haw4/RegisterAndUploadAndroid)
 
 ![GIF](https://github.com/5haw4/RegisterAndUploadWeb/blob/master/regiaterAndUploadWeb.gif)
 
-[Check Out the Android App](https://github.com/5haw4/RegisterAndUploadAndroid)
 
 This is a simple fullstack project that allows users to login / register and create posts, upload images with their posts, and browse through other users' posts.
  
